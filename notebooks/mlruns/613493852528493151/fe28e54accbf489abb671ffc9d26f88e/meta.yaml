@@ -1,0 +1,15 @@
+artifact_uri: file:///home/felip/projetos/alura/mlflow/notebooks/mlruns/613493852528493151/fe28e54accbf489abb671ffc9d26f88e/artifacts
+end_time: 1744919964342
+entry_point_name: ''
+experiment_id: '613493852528493151'
+lifecycle_stage: active
+run_id: fe28e54accbf489abb671ffc9d26f88e
+run_name: melodic-bear-725
+run_uuid: fe28e54accbf489abb671ffc9d26f88e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744919950620
+status: 3
+tags: []
+user_id: felip

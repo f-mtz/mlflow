@@ -1,0 +1,16 @@
+artifact_uri: file:///home/felip/projetos/alura/mlflow/notebooks/mlruns/613493852528493151/fc4071c5a6e44fb289357f5878c462d7/artifacts
+deleted_time: 1744918827679
+end_time: 1744918728980
+entry_point_name: ''
+experiment_id: '613493852528493151'
+lifecycle_stage: deleted
+run_id: fc4071c5a6e44fb289357f5878c462d7
+run_name: thundering-mole-134
+run_uuid: fc4071c5a6e44fb289357f5878c462d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744918723801
+status: 3
+tags: []
+user_id: felip

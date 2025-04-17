@@ -1,0 +1,15 @@
+artifact_uri: file:///home/felip/projetos/alura/mlflow/notebooks/mlruns/613493852528493151/dabf3e8f47164c83984932697f401737/artifacts
+end_time: 1744918937446
+entry_point_name: ''
+experiment_id: '613493852528493151'
+lifecycle_stage: active
+run_id: dabf3e8f47164c83984932697f401737
+run_name: welcoming-moth-795
+run_uuid: dabf3e8f47164c83984932697f401737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744918931102
+status: 3
+tags: []
+user_id: felip
