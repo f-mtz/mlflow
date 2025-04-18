@@ -1,8 +1,9 @@
 artifact_uri: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200/e371a7d4dc684848812ce096e80f27a5/artifacts
+deleted_time: 1745008415219
 end_time: 1744980714149
 entry_point_name: ''
 experiment_id: '586998541591220200'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e371a7d4dc684848812ce096e80f27a5
 run_name: incongruous-roo-843
 run_uuid: e371a7d4dc684848812ce096e80f27a5

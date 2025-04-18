@@ -1,8 +1,9 @@
 artifact_uri: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200/6c76230b95774567b5a233c0c9a44b2b/artifacts
+deleted_time: 1745008415210
 end_time: 1744980430420
 entry_point_name: ''
 experiment_id: '586998541591220200'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6c76230b95774567b5a233c0c9a44b2b
 run_name: rumbling-ray-670
 run_uuid: 6c76230b95774567b5a233c0c9a44b2b

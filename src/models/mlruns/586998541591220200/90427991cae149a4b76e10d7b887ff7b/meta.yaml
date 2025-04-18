@@ -1,8 +1,9 @@
 artifact_uri: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200/90427991cae149a4b76e10d7b887ff7b/artifacts
+deleted_time: 1745008415234
 end_time: 1744980995047
 entry_point_name: ''
 experiment_id: '586998541591220200'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 90427991cae149a4b76e10d7b887ff7b
 run_name: sincere-cow-978
 run_uuid: 90427991cae149a4b76e10d7b887ff7b

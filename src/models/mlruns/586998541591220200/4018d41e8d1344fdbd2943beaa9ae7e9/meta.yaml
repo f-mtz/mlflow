@@ -1,8 +1,9 @@
 artifact_uri: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200/4018d41e8d1344fdbd2943beaa9ae7e9/artifacts
+deleted_time: 1745008414947
 end_time: 1744979286888
 entry_point_name: ''
 experiment_id: '586998541591220200'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4018d41e8d1344fdbd2943beaa9ae7e9
 run_name: crawling-stork-811
 run_uuid: 4018d41e8d1344fdbd2943beaa9ae7e9

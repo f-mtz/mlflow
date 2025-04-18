@@ -1,8 +1,9 @@
 artifact_uri: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200/5149f9437f604a87be3b19f10f5630ac/artifacts
+deleted_time: 1745008415210
 end_time: 1744980575896
 entry_point_name: ''
 experiment_id: '586998541591220200'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5149f9437f604a87be3b19f10f5630ac
 run_name: dazzling-bear-952
 run_uuid: 5149f9437f604a87be3b19f10f5630ac

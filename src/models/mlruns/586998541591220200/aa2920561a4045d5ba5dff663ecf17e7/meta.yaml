@@ -1,8 +1,9 @@
 artifact_uri: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200/aa2920561a4045d5ba5dff663ecf17e7/artifacts
+deleted_time: 1745008414980
 end_time: 1744979345837
 entry_point_name: ''
 experiment_id: '586998541591220200'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: aa2920561a4045d5ba5dff663ecf17e7
 run_name: clumsy-donkey-146
 run_uuid: aa2920561a4045d5ba5dff663ecf17e7

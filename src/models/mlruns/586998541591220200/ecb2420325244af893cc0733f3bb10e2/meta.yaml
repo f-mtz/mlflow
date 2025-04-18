@@ -1,8 +1,9 @@
 artifact_uri: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200/ecb2420325244af893cc0733f3bb10e2/artifacts
+deleted_time: 1745008414955
 end_time: 1744979009442
 entry_point_name: ''
 experiment_id: '586998541591220200'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ecb2420325244af893cc0733f3bb10e2
 run_name: adorable-mole-434
 run_uuid: ecb2420325244af893cc0733f3bb10e2

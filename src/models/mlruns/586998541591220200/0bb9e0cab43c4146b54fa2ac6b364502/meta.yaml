@@ -1,8 +1,9 @@
 artifact_uri: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200/0bb9e0cab43c4146b54fa2ac6b364502/artifacts
+deleted_time: 1745008415089
 end_time: 1744979983269
 entry_point_name: ''
 experiment_id: '586998541591220200'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0bb9e0cab43c4146b54fa2ac6b364502
 run_name: exultant-cub-870
 run_uuid: 0bb9e0cab43c4146b54fa2ac6b364502

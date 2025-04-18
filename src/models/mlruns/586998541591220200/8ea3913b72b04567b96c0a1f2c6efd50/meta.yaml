@@ -1,8 +1,9 @@
 artifact_uri: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200/8ea3913b72b04567b96c0a1f2c6efd50/artifacts
+deleted_time: 1745008414979
 end_time: 1744976252994
 entry_point_name: ''
 experiment_id: '586998541591220200'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8ea3913b72b04567b96c0a1f2c6efd50
 run_name: valuable-finch-886
 run_uuid: 8ea3913b72b04567b96c0a1f2c6efd50

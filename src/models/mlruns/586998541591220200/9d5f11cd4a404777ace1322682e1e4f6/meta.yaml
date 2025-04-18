@@ -1,8 +1,9 @@
 artifact_uri: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200/9d5f11cd4a404777ace1322682e1e4f6/artifacts
+deleted_time: 1745008415130
 end_time: 1744980065611
 entry_point_name: ''
 experiment_id: '586998541591220200'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9d5f11cd4a404777ace1322682e1e4f6
 run_name: fortunate-gull-505
 run_uuid: 9d5f11cd4a404777ace1322682e1e4f6

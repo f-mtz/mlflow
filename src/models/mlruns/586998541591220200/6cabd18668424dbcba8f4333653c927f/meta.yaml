@@ -1,8 +1,9 @@
 artifact_uri: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200/6cabd18668424dbcba8f4333653c927f/artifacts
+deleted_time: 1745008414948
 end_time: 1744978872478
 entry_point_name: ''
 experiment_id: '586998541591220200'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6cabd18668424dbcba8f4333653c927f
 run_name: rogue-turtle-135
 run_uuid: 6cabd18668424dbcba8f4333653c927f

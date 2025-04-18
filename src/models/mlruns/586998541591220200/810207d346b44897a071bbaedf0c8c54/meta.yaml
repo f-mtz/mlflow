@@ -1,8 +1,9 @@
 artifact_uri: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200/810207d346b44897a071bbaedf0c8c54/artifacts
+deleted_time: 1745008415133
 end_time: 1744980108400
 entry_point_name: ''
 experiment_id: '586998541591220200'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 810207d346b44897a071bbaedf0c8c54
 run_name: bemused-whale-636
 run_uuid: 810207d346b44897a071bbaedf0c8c54
