@@ -1,0 +1,6 @@
+artifact_location: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200
+creation_time: 1744976235321
+experiment_id: '586998541591220200'
+last_update_time: 1744976235321
+lifecycle_stage: active
+name: house-prices-script
