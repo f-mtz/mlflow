@@ -32,26 +32,26 @@ dtrain = xgboost.DMatrix(X_train, label=y_train)
 dtest = xgboost.DMatrix(X_test, label=y_test)
 
 def main():
-args = parse_args()
-xgb_params = {}
+    args = parse_args()
+    xgb_params = {}
 
-xgb_params['learning_rate'] = args.learning_rate
-xgb_params['max_depth'] = args.max_depth
-xgb_params['seed'] = 42
+    xgb_params['learning_rate'] = args.learning_rate
+    xgb_params['max_depth'] = args.max_depth
+    xgb_params['seed'] = 42
 
-mlflow.set_experiment('house-prices-script')
-with mlflow.start_run():
-    mlflow.xgboost.autolog()
-    xgb = xgboost.train(xgb_params, dtrain, evals=[(dtrain, 'train')])
+    mlflow.set_experiment('house-prices-script')
+    with mlflow.start_run():
+        mlflow.xgboost.autolog()
+        xgb = xgboost.train(xgb_params, dtrain, evals=[(dtrain, 'train')])
 
-    xgb_predicted = xgb.predict(dtest)
-    mse = mean_squared_error(y_test, xgb_predicted)
-    rmse = math.sqrt(mse)
-    r2 = r2_score(y_test, xgb_predicted)
-    
-    mlflow.log_metric('mse', mse)
-    mlflow.log_metric('rmse', rmse)
-    mlflow.log_metric('r2', r2)
+        xgb_predicted = xgb.predict(dtest)
+        mse = mean_squared_error(y_test, xgb_predicted)
+        rmse = math.sqrt(mse)
+        r2 = r2_score(y_test, xgb_predicted)
+        
+        mlflow.log_metric('mse', mse)
+        mlflow.log_metric('rmse', rmse)
+        mlflow.log_metric('r2', r2)
 
 if __name__ == '__main__':
     main()

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200/feb507f482214742800db5bc1a9cff8e/artifacts
+end_time: 1745007110849
+entry_point_name: ''
+experiment_id: '586998541591220200'
+lifecycle_stage: active
+run_id: feb507f482214742800db5bc1a9cff8e
+run_name: adorable-jay-947
+run_uuid: feb507f482214742800db5bc1a9cff8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745007101415
+status: 3
+tags: []
+user_id: felip
