@@ -1,0 +1,15 @@
+artifact_uri: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200/fc84d83c58ca47188bb18daa07c53786/artifacts
+end_time: 1744996368041
+entry_point_name: ''
+experiment_id: '586998541591220200'
+lifecycle_stage: active
+run_id: fc84d83c58ca47188bb18daa07c53786
+run_name: chill-vole-228
+run_uuid: fc84d83c58ca47188bb18daa07c53786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744996350048
+status: 3
+tags: []
+user_id: felip

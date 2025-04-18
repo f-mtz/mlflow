@@ -1,0 +1,9 @@
+digest: 8a985cc6
+name: train
+profile: '{"features_shape": [1022, 3], "features_size": 3066, "features_nbytes":
+  12264}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 3]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "felip", "mlflow.source.name": "src/models/train_model.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "9e3aa77b67913965dcadeec3f97a58f37b8631df"}}'
+source_type: code

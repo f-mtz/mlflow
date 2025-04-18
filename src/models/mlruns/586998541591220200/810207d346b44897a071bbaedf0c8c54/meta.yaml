@@ -1,0 +1,15 @@
+artifact_uri: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200/810207d346b44897a071bbaedf0c8c54/artifacts
+end_time: 1744980108400
+entry_point_name: ''
+experiment_id: '586998541591220200'
+lifecycle_stage: active
+run_id: 810207d346b44897a071bbaedf0c8c54
+run_name: bemused-whale-636
+run_uuid: 810207d346b44897a071bbaedf0c8c54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744980101998
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200/5149f9437f604a87be3b19f10f5630ac/artifacts
+end_time: 1744980575896
+entry_point_name: ''
+experiment_id: '586998541591220200'
+lifecycle_stage: active
+run_id: 5149f9437f604a87be3b19f10f5630ac
+run_name: dazzling-bear-952
+run_uuid: 5149f9437f604a87be3b19f10f5630ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744980567011
+status: 3
+tags: []
+user_id: felip

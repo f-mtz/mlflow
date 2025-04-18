@@ -1,0 +1,16 @@
+artifact_uri: file:///home/felip/projetos/alura/mlflow/mlruns/188459727220223302/7f0a37f47e2540b196b0bdfb0e9cc115/artifacts
+deleted_time: 1744981259240
+end_time: 1744976020882
+entry_point_name: ''
+experiment_id: '188459727220223302'
+lifecycle_stage: deleted
+run_id: 7f0a37f47e2540b196b0bdfb0e9cc115
+run_name: gifted-ape-894
+run_uuid: 7f0a37f47e2540b196b0bdfb0e9cc115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744976009582
+status: 3
+tags: []
+user_id: felip

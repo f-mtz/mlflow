@@ -1,0 +1,15 @@
+artifact_uri: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200/6cabd18668424dbcba8f4333653c927f/artifacts
+end_time: 1744978872478
+entry_point_name: ''
+experiment_id: '586998541591220200'
+lifecycle_stage: active
+run_id: 6cabd18668424dbcba8f4333653c927f
+run_name: rogue-turtle-135
+run_uuid: 6cabd18668424dbcba8f4333653c927f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744978861730
+status: 3
+tags: []
+user_id: felip

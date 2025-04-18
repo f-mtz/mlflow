@@ -1,0 +1,15 @@
+artifact_uri: file:///home/felip/projetos/alura/mlflow/src/models/mlruns/586998541591220200/c1484ff6fe6c4c21b09a4f8ca04f8089/artifacts
+end_time: 1744979723506
+entry_point_name: ''
+experiment_id: '586998541591220200'
+lifecycle_stage: active
+run_id: c1484ff6fe6c4c21b09a4f8ca04f8089
+run_name: bustling-moose-409
+run_uuid: c1484ff6fe6c4c21b09a4f8ca04f8089
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744979713903
+status: 3
+tags: []
+user_id: felip
