@@ -1,0 +1,12 @@
+  title: "Projeto MLFlow"
+  image: "images/rossmann.jpg"
+  link: "https://github.com/f-mtz/mlflow"
+  description: Modelo de previsão de vendas com MLFlow.
+  show_in_main_port: true
+  show_in_credit_port: false
+  topics:
+    - "Previsão de Regressão"
+  tools:
+    - "Python 3.11 e Pyenv"
+    - "Pandas e Numpy"
+    - "Docker, MLFlow"
