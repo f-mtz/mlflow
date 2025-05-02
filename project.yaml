@@ -1,5 +1,5 @@
   title: "Projeto MLFlow"
-  image: "images/rossmann.jpg"
+  image: "images/image.png"
   link: "https://github.com/f-mtz/mlflow"
   description: Modelo de previsão de vendas com MLFlow.
   show_in_main_port: true
